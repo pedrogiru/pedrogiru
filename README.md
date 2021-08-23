@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/pedrogiru/pedrogiru/main/banner-3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://raw.githubusercontent.com/pedrogiru/pedrogiru/main/Untitled-1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 
 ### 👋 Hi, I’m Pedro Girú Nunes
