@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/pedrogiru/pedrogiru/main/banner-3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 
-### 👋 Hi, I’m Pedro G
+### 👋 Hi, I’m Pedro Girú Nunes
  I’m sysadmin at Fire Telecom
 
 
