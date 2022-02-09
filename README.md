@@ -24,3 +24,5 @@
   ![REDHAT](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
   ![VMWARE](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
   ![OPENSTACK](https://img.shields.io/badge/openstack-white?style=for-the-badge&logo=openstack&logoColor=EE0000)
+
+[![card](https://github-readme-stats.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
