@@ -26,3 +26,4 @@
   ![OPENSTACK](https://img.shields.io/badge/openstack-white?style=for-the-badge&logo=openstack&logoColor=EE0000)
 
 [![card](https://github-readme-stats.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrogiru&theme=tokyonight)](https://git.io/streak-stats)
