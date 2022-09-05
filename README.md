@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I’m Pedro Girú Nunes
- I’m sysadmin at ZEEP INTERNET and FIRE TELECOM
+ I’m sysadmin at ZEEP INTERNET
 
 
 
