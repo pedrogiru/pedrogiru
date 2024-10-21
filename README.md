@@ -5,6 +5,7 @@
 ### 👋 Hi, I’m Pedro Girú Nunes  
 I’m sysadmin at ZEEP INTERNET
 
+</div>
 ### :clipboard: Technologies:
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,4 +28,3 @@ I’m sysadmin at ZEEP INTERNET
 |![card](https://github-readme-stats.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrogiru&theme=tokyonight)](https://git.io/streak-stats)|
 :------: |:------: |
 
-</div>
