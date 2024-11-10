@@ -3,9 +3,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1074015828346945628)](https://discord.com/users/1074015828346945628)
 
 ### 👋 Hi, I’m Pedro Girú Nunes  
-I’m sysadmin at ZEEP INTERNET
+Fullstack Developer & Sysadmin at Mais Centro Clínico
 
 </div>
+
 ### :clipboard: Technologies:
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
