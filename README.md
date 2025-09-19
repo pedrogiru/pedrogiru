@@ -26,6 +26,6 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 ![VMWARE](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![OPENSTACK](https://img.shields.io/badge/openstack-white?style=for-the-badge&logo=openstack&logoColor=EE0000)
 
-|![card](https://github-readme-stats.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrogiru&theme=tokyonight)](https://git.io/streak-stats)|
+|![card](https://github-readme-stats-iota-topaz-94.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrogiru&theme=tokyonight)](https://git.io/streak-stats)|
 :------: |:------: |
 
