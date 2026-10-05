@@ -19,6 +19,10 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 
 **ISP networks** · where it all started — fiber provisioning on ZTE OLTs, BGP on Huawei edge routers and RouterOS automation at Fire Telecom.
 
+### 🇧🇷 Em português
+
+Sou desenvolvedor fullstack e sysadmin na Mais Centro Clínico, em Tramandaí (RS). Sou sócio e cofundador da **Kronic**, a suíte completa para clínicas, com atendimento por IA no WhatsApp, agenda, Pix e CRM num fluxo só. Também sou o principal autor do backend do **SysCMS**, o CRM do Cartão Mais Saúde. Antes de escrever backend, cuidava da rede de um provedor de internet, da fibra até o BGP.
+
 ### :clipboard: Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624)
