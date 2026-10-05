@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark)](https://discord.com/users/201454253712211976)
+
 # Pedro Girú Nunes
 
 **Fullstack Developer & Sysadmin** at Mais Centro Clínico
