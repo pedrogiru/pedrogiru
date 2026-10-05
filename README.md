@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark)](https://discord.com/users/201454253712211976)
-![Top Languages](./profile/top-langs.svg)
+<a href="https://discord.com/users/201454253712211976"><img height="200" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark&bg=1a1b27&borderRadius=5px" /></a>
+<img height="200" alt="Top Languages" src="./profile/top-langs.svg" />
 
 ### 👋 Hi, I’m Pedro Girú Nunes  
 Fullstack Developer & Sysadmin at Mais Centro Clínico
@@ -27,6 +27,10 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 ![VMWARE](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![OPENSTACK](https://img.shields.io/badge/openstack-white?style=for-the-badge&logo=openstack&logoColor=EE0000)
 
-|![GitHub Stats](./profile/stats.svg)  | ![GitHub Streak](./profile/streak.svg) |
-:------: |:------: |
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="./profile/stats.svg" />
+<img height="180" alt="GitHub Streak" src="./profile/streak.svg" />
+
+</div>
 
