@@ -11,15 +11,9 @@ Backend Developer at Mais Centro Clínico · Co-founder at Kronic
 [![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/pedrogiru)
 [![Discord](https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/201454253712211976)
 
-### 🚀 What I build
-
 **Kronic** · co-founder · AI-powered platform for clinics<br />
 **SysCMS** · backend author · CRM behind Cartão Mais Saúde<br />
 **ISP networks** · where it started · fiber, BGP and RouterOS
-
-### 🇧🇷 Em português
-
-Desenvolvedor backend e cofundador da Kronic. Construo sistemas para clínicas, do WhatsApp ao Pix.
 
 ### :clipboard: Technologies
 
