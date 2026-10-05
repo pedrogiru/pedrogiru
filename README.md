@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://discord.com/users/201454253712211976"><img width="420" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark&bg=1a1b27&borderRadius=6px" /></a>
+
 ### 👋 Hi, I’m Pedro Girú Nunes
 Fullstack Developer & Sysadmin at Mais Centro Clínico
 
@@ -8,10 +10,6 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 [![Website](https://img.shields.io/badge/stupids.me-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stupids.me)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/pedrogiru)
 [![Discord](https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/201454253712211976)
-
-<br />
-
-<a href="https://discord.com/users/201454253712211976"><img width="420" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark&bg=1a1b27&borderRadius=6px" /></a>
 
 ### 🚀 What I build
 
