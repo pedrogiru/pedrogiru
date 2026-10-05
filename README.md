@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/201454253712211976"><img width="420" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark&bg=1a1b27&borderRadius=6px" /></a>
 
 ### 👋 Hi, I’m Pedro Girú Nunes
-Fullstack Developer & Sysadmin at Mais Centro Clínico
+Backend Developer at Mais Centro Clínico · Co-founder at Kronic
 
 <sub><i>I don’t know what you’re looking for here, but I truly hope you find it.</i></sub>
 
@@ -21,7 +21,7 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 
 ### 🇧🇷 Em português
 
-Sou desenvolvedor fullstack e sysadmin na Mais Centro Clínico, em Tramandaí (RS). Sou sócio e cofundador da **Kronic**, a suíte completa para clínicas, com atendimento por IA no WhatsApp, agenda, Pix e CRM num fluxo só. Também sou o principal autor do backend do **SysCMS**, o CRM do Cartão Mais Saúde. Antes de escrever backend, cuidava da rede de um provedor de internet, da fibra até o BGP.
+Sou desenvolvedor backend na Mais Centro Clínico, em Tramandaí (RS), e sócio e cofundador da **Kronic**, a suíte completa para clínicas, com atendimento por IA no WhatsApp, agenda, Pix e CRM num fluxo só. Também sou o principal autor do backend do **SysCMS**, o CRM do Cartão Mais Saúde. Antes de escrever backend, cuidava da rede de um provedor de internet, da fibra até o BGP.
 
 ### :clipboard: Technologies
 
