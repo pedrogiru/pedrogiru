@@ -15,6 +15,8 @@ Backend Developer at Mais Centro Clínico · Co-founder at Kronic
 **SysCMS** · backend author · CRM behind Cartão Mais Saúde<br />
 **ISP networks** · where it started · fiber, BGP and RouterOS
 
+</div>
+
 ### :clipboard: Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -43,13 +45,8 @@ Backend Developer at Mais Centro Clínico · Co-founder at Kronic
 ![VMware](https://img.shields.io/badge/VMware-1a1b27?style=for-the-badge&logo=vmware&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-1a1b27?style=for-the-badge&logo=openstack&logoColor=ED1944)
 
-<br />
-
 ### 📊 GitHub Stats
 
-<img height="170" alt="GitHub Stats" src="./profile/stats.svg" />
-<img height="170" alt="Top Languages" src="./profile/top-langs.svg" />
+<img height="170" alt="GitHub Stats" src="./profile/stats.svg" /> <img height="170" alt="Top Languages" src="./profile/top-langs.svg" />
 
 <img height="170" alt="GitHub Streak" src="./profile/streak.svg" />
-
-</div>
