@@ -13,15 +13,13 @@ Backend Developer at Mais Centro Clínico · Co-founder at Kronic
 
 ### 🚀 What I build
 
-**Kronic** · co-founder — all-in-one platform for clinics: an AI that answers patients on WhatsApp and books appointments for real, shared inbox, Pix payments and CRM.
-
-**SysCMS** · main backend author — the CRM behind Cartão Mais Saúde, from first contact to contract renewal, with a mobile app for members.
-
-**ISP networks** · where it all started — fiber provisioning on ZTE OLTs, BGP on Huawei edge routers and RouterOS automation at Fire Telecom.
+**Kronic** · co-founder · AI-powered platform for clinics<br />
+**SysCMS** · backend author · CRM behind Cartão Mais Saúde<br />
+**ISP networks** · where it started · fiber, BGP and RouterOS
 
 ### 🇧🇷 Em português
 
-Sou desenvolvedor backend na Mais Centro Clínico, em Tramandaí (RS), e sócio e cofundador da **Kronic**, a suíte completa para clínicas, com atendimento por IA no WhatsApp, agenda, Pix e CRM num fluxo só. Também sou o principal autor do backend do **SysCMS**, o CRM do Cartão Mais Saúde. Antes de escrever backend, cuidava da rede de um provedor de internet, da fibra até o BGP.
+Desenvolvedor backend e cofundador da Kronic. Construo sistemas para clínicas, do WhatsApp ao Pix.
 
 ### :clipboard: Technologies
 
