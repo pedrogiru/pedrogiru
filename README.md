@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/201454253712211976?showDisplayName=true&hideTag=true&theme=dark)](https://discord.com/users/201454253712211976)
-![Top Languages](https://github-readme-stats-iota-topaz-94.vercel.app/api/top-langs/?username=pedrogiru&theme=dark&show_icons=true&layout=donut)
+![Top Languages](./profile/top-langs.svg)
 
 ### 👋 Hi, I’m Pedro Girú Nunes  
 Fullstack Developer & Sysadmin at Mais Centro Clínico
@@ -27,6 +27,6 @@ Fullstack Developer & Sysadmin at Mais Centro Clínico
 ![VMWARE](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![OPENSTACK](https://img.shields.io/badge/openstack-white?style=for-the-badge&logo=openstack&logoColor=EE0000)
 
-|![card](https://github-readme-stats-iota-topaz-94.vercel.app/api?username=pedrogiru&theme=tokyonight&show_icons=true)  | ![GitHub Streak](https://github-readme-streak-stats-ochre-sigma.vercel.app/?user=Pedrogiru&theme=tokyonight) |
+|![GitHub Stats](./profile/stats.svg)  | ![GitHub Streak](./profile/streak.svg) |
 :------: |:------: |
 
