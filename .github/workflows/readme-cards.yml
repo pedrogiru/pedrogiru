@@ -1,0 +1,59 @@
+name: Update README cards
+
+# Cards are published to the `output` branch as a single, force-pushed commit,
+# so `main` never accumulates daily bot commits.
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Every day at 03:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/readme-cards.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&hide_border=true&disable_animations=true
+          path: out/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=tokyonight&layout=donut&hide_border=true&disable_animations=true
+          path: out/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
+          path: out/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish cards to the output branch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd out
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "Update README cards"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" output
